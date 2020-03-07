@@ -36,61 +36,61 @@
     width:30%;
     height:200px;
     float:left;
-    background-color: orange;
+    background-color: #ffa500;
     margin:0 5% 40px 0;
 }
 .block:nth-child(2) {
     width:30%;
     height:200px;
     float:left;
-    background-color: yellow;
+    background-color: #ffd700;
     margin:0 5% 40px 0;
 }
 .block:nth-child(3) {
     width:30%;
     height:200px;
     float:left;
-    background-color: yellow;
+    background-color: #ffd700;
     margin:0 0 40px 0;
 }
 .block:nth-child(4) {
     width:30%;
     height:200px;
     float:left;
-    background-color: yellow;
+    background-color: #ffd700;
     margin:0 5% 40px 0;
 }
 .block:nth-child(5) {
     width:30%;
     height:200px;
     float:left;
-    background-color: orange;
+    background-color: #ffa500;
     margin:0 5% 40px 0;
 }
 .block:nth-child(6) {
     width:30%;
     height:200px;
     float:left;
-    background-color: yellow;
+    background-color: #ffd700;
     margin:0 0 40px 0;
 }
 .block:nth-child(7) {
     width:30%;
     height:200px;
     float:left;
-    background-color: yellow;
+    background-color: #ffd700;
     margin:0 5% 0 0;
 }
 .block:nth-child(8) {
     width:30%;
     height:200px;
     float:left;
-    background-color: yellow;
+    background-color: #ffd700;
     margin:0 5% 0 0;
 }
 .block:nth-child(9) {
     width:30%;
     height:200px;
     float:left;
-    background-color: orange;
+    background-color: #ffa500;
 }
