@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.clearfix::after{
+    content:"";
+    display:block;
+    clear:both;
+
+}
+.lists{
+    width: 960px;
+    margin:0 auto;
+    padding:50px 0;
+}
+.list:nth-child(odd){
+    padding:20px 0 20px 20px;
+    background-color: #c0c0c0;
+    color:gray;
+}
+.list:nth-child(even){
+    padding:20px 0 20px 20px;
+    color: gray;
+}
+
+.blocks{
+    margin:0 auto;
+    width:960px;
+    height:680px;
+    margin-bottom:50px;
+    text-align:center;
+}
+.block:nth-child(1) {
+    width:30%;
+    height:200px;
+    float:left;
+    background-color: orange;
+    margin:0 5% 40px 0;
+}
+.block:nth-child(2) {
+    width:30%;
+    height:200px;
+    float:left;
+    background-color: yellow;
+    margin:0 5% 40px 0;
+}
+.block:nth-child(3) {
+    width:30%;
+    height:200px;
+    float:left;
+    background-color: yellow;
+    margin:0 0 40px 0;
+}
+.block:nth-child(4) {
+    width:30%;
+    height:200px;
+    float:left;
+    background-color: yellow;
+    margin:0 5% 40px 0;
+}
+.block:nth-child(5) {
+    width:30%;
+    height:200px;
+    float:left;
+    background-color: orange;
+    margin:0 5% 40px 0;
+}
+.block:nth-child(6) {
+    width:30%;
+    height:200px;
+    float:left;
+    background-color: yellow;
+    margin:0 0 40px 0;
+}
+.block:nth-child(7) {
+    width:30%;
+    height:200px;
+    float:left;
+    background-color: yellow;
+    margin:0 5% 0 0;
+}
+.block:nth-child(8) {
+    width:30%;
+    height:200px;
+    float:left;
+    background-color: yellow;
+    margin:0 5% 0 0;
+}
+.block:nth-child(9) {
+    width:30%;
+    height:200px;
+    float:left;
+    background-color: orange;
+}
